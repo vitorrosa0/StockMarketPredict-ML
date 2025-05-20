@@ -52,4 +52,4 @@ O código está organizado em células para ser executado com facilidade no **Ju
 
 ## 📎 Link do post no LinkedIn
 
-Você pode ver uma explicação mais visual do projeto [neste post](https://www.linkedin.com/) (atualize com o link real quando publicar).
+Você pode ver uma explicação mais visual do projeto https://www.linkedin.com/posts/vitorribeirorosa_github-vitorrosa0stockmarketpredict-ml-activity-7330638026563338240-JAQj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdIrrIBKkQF0bytRV9y4nc7Hp0u_pnwvuc
